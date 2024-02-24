@@ -21,12 +21,6 @@ downloader.py manages image downloads. Adjust settings like number of images and
 ### Voiceover Generation
 Run main.py to process images and generate voiceovers. Follow on-screen prompts for input and options.
 
-### Examples
-Include code snippets or command-line examples for each module to illustrate typical usage.
-
-### Screenshots/GIFs
-Add visuals demonstrating the tool's functionality, such as screenshots of the user interface or GIFs of the process.
-
 ## Contributing
 Encourage open-source contributions. Provide guidelines on how users can contribute to the project.
 
