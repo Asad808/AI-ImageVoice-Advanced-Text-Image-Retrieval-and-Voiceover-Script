@@ -5,7 +5,7 @@ AI ImageVoice is a Python project with three modules: `bing.py` for Bing image s
 AI ImageVoice is an advanced Python project integrating image retrieval, downloading management, and voiceover generation using OpenAI's API. It's designed to fetch images based on text prompts and create descriptive audio for these images.
 
 ## Quick Start
-1. Clone the Repository: 'git clone [repository URL]'
+1. Clone the Repository: '[git clone https://github.com/Asad808/AI-ImageVoice-Advanced-Text-Image-Retrieval-and-Voiceover-Script.git'
 2. Install Dependencies: 'pip install -r requirements.txt'
 3. Set API Key: Replace 'Your OpenAI API Key' in the script with your actual API key.
 
